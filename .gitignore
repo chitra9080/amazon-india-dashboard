@@ -21,4 +21,4 @@ Thumbs.db
 
 # OPTIONAL: if you are NOT allowed to publish the dataset, remove the
 # leading '#' on the next line so the Excel file is not uploaded to GitHub.
-# data/*.xlsx
+ data/*.xlsx
